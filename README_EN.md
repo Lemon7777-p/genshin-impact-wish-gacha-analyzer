@@ -6,13 +6,13 @@
 
 I have developed a utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner.
  
-It works by reading game lots to obtain the wish history website. Thus, you must start the game and open the wish history page at least once before running this utility.
+It works by reading game logs to obtain the wish history website. Thus, you must start the game and open the wish history page at least once before running this utility.
 
 Variables retrieved from the website will be analyzed and used in an API related to Genshin Impact (from miHoYo).
  
 This program loads your gacha history during initial startup, which may take a while. The resulting data will be stored locally to ensure it not take that much time in the next start, after which it will not be updated until you update it manually. The data will also be automatically updated when there is a version update.
  
-This program does not tamper with any game resources; thus, there is no risk of being banned for using this software. If you have been banned, it was likely for a different reason. Please do not blame us, thanks.
+This program does not tamper with any game resources; thus, there is no risk of being banned for using this software. If you have been banned, it was likely for a different reason. Please do not blame us, thank you.
 
 The original post on Bahamut (巴哈姆特): <https://forum.gamer.com.tw/C.php?bsn=36730&snA=11990&tnum=4>
  
@@ -24,7 +24,7 @@ Please help us translate this software.
  
  ## Download Software
  
-The software may trigger anti-virus software during installation and execution. If the software doesn't function correctly, please try disabling any anti-virus software you have installed. We guarantee this software is safe and virus-free.
+The software may trigger anti-virus software during installation and execution. If the software does not function correctly, please try disabling any anti-virus software you have installed. We guarantee this software is safe and virus-free.
 
 <https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer/releases>
 
